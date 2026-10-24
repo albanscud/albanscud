@@ -25,13 +25,24 @@ ascud — cybersécurité & développement
 | 🪨 **Cairn** | Atelier de notes local-first : fichiers Markdown sur disque, historique versionné avec Git (Tauri) |
 | 📺 **Flux** | Lecteur IPTV Flutter (M3U / Xtream Codes) pour Android, Android TV et iOS |
 
-### 🛠️ Stack
+### 🏴 CTF
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,flutter,dart,tauri,php,symfony,c&perline=12" alt="Langages et frameworks" />
+  <a href="https://tryhackme.com/p/scud78"><img src="https://tryhackme-badges.s3.amazonaws.com/scud78.png" alt="TryHackMe scud78" /></a>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,git,aws,azure&perline=12" alt="Outils" />
+  <a href="https://www.root-me.org/scud78"><img src="https://img.shields.io/badge/Root--Me-scud78-0D1117?style=for-the-badge&logo=rootme&logoColor=39FF14&labelColor=000000" alt="Root-Me scud78" /></a>
+</p>
+
+### 🎓 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Jedha-Cybers%C3%A9curit%C3%A9_Fullstack_(Bac%2B4)-0D1117?style=for-the-badge&labelColor=000000&color=1F6FEB" alt="Jedha Cybersécurité Fullstack" />
+  <img src="https://img.shields.io/badge/Jedha-Cybers%C3%A9curit%C3%A9_Essentials-0D1117?style=for-the-badge&labelColor=000000&color=1F6FEB" alt="Jedha Cybersécurité Essentials" />
+  <img src="https://img.shields.io/badge/Cisco-CCST_Cybersecurity-0D1117?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000&color=049FD9" alt="Cisco CCST Cybersecurity" />
+  <img src="https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-0D1117?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000&color=049FD9" alt="Cisco Junior Cybersecurity Analyst" />
+  <img src="https://img.shields.io/badge/Google-Cybersecurity_Certificate-0D1117?style=for-the-badge&logo=google&logoColor=white&labelColor=000000&color=4285F4" alt="Google Cybersecurity Certificate" />
+  <img src="https://img.shields.io/badge/ANSSI-Attestation_cybers%C3%A9curit%C3%A9-0D1117?style=for-the-badge&labelColor=000000&color=000091" alt="Attestation ANSSI" />
 </p>
 
 ### 📊 Activité
